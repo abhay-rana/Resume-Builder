@@ -18,6 +18,18 @@
 
 ---
 
+## :movie_camera: See It In Action
+
+<div align="center">
+
+<img src="screenshots/demo.gif" alt="ResumeFreePro Demo - Create Professional Resumes in Minutes" width="800"/>
+
+*Create a professional resume in under 2 minutes*
+
+</div>
+
+---
+
 ## Why ResumeFreePro?
 
 | Feature | ResumeFreePro | Other Builders |
