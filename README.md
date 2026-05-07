@@ -49,6 +49,7 @@
 | **Job Application Tracker** | :white_check_mark: | :x: Not included |
 | **Cover Letter Builder** | :white_check_mark: | :x: Paid only |
 | **Chrome Extension** | :white_check_mark: | :x: Not available |
+| **Resume Locking** | :white_check_mark: | :x: Not available |
 | **No Sign-up Required** | :white_check_mark: | :x: Account needed |
 
 ---
@@ -61,7 +62,7 @@ Upload your existing PDF or DOCX resume, or paste your LinkedIn URL — AI extra
 <img src="screenshots/import-options.png" alt="AI Resume Import - LinkedIn and PDF Upload" width="600"/>
 
 ### :art: 12+ ATS-Optimized Templates
-Choose from 12+ professional resume templates designed to pass Applicant Tracking Systems. Single-column, double-column, and modern layouts engineered by HR professionals.
+Choose from 12+ professional resume templates across 3 layout types — **single-column** (traditional industries), **double-column** (tech and engineering), and **modern** (creative roles with sidebars and photo headers). Every template engineered to pass ATS parsing.
 
 <img src="screenshots/templates.png" alt="ATS-Optimized Resume Templates" width="600"/>
 
@@ -128,8 +129,8 @@ Paste a job description — AI rewrites your resume to match it. Get a 7-dimensi
 </td>
 <td width="33%" valign="top">
 
-### :link: Public Sharing & Cloud Sync
-Share a clean web-hosted resume link instead of a PDF attachment. All resumes auto-save to the cloud, accessible from any device.
+### :link: Public Sharing, Cloning & Cloud Sync
+Share a clean web-hosted resume link instead of a PDF attachment. Clone any resume in one click for a different role. Lock a resume after submitting to prevent accidental edits. All resumes auto-save to the cloud, accessible from any device.
 
 </td>
 </tr>
